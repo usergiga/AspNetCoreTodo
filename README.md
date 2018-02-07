@@ -1,2 +1,2 @@
 # AspNetCoreTodo
-Simple Todo application
+Simple Todo application.
